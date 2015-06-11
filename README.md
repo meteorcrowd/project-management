@@ -23,7 +23,7 @@ The following features are currently under consideration:
 * [User Accounts](https://github.com/meteorcrowd/project-management/issues/24) - needed for authentication, ownership, etc
   * [Profiles](https://github.com/meteorcrowd/project-management/issues/25) - demonstrating achievements, activity, affiliation, etc 
   * [Groups](https://github.com/meteorcrowd/project-management/issues/26) - collecives with common abilities, ambitions, etc
-  * Dashboard - at-a-glance view of personally relevant tasks and activity across all projects
+  * [Dashboard](https://github.com/meteorcrowd/project-management/issues/29) - at-a-glance view of personally relevant tasks and activity across all projects
 * [Wiki documentation](https://github.com/meteorcrowd/project-management/issues/27) - collaborative documents
 * [Kanban board](https://github.com/meteorcrowd/project-management/issues/11) - visual representation of work in progress
   * Swimlanes - rows of tasks linked in common
