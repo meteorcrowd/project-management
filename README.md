@@ -18,7 +18,7 @@ The following features are currently under consideration:
 * [Projects](https://github.com/meteorcrowd/project-management/issues/22) - collaborative, or individual, ventures
 * [Tasks](https://github.com/meteorcrowd/project-management/issues/18) - the basic elements within projects
   * [Voting](https://github.com/meteorcrowd/project-management/issues/13) - Collaboratively affirm, prioritise, and validate tasks
-  * Estimation - individual or collective estimations of task time involvment
+  * [Estimation](https://github.com/meteorcrowd/project-management/issues/30) - individual or collective estimations of task time involvment
   * Task relationships - links between tasks, allowing for sequencing, graph traversal, dependency tracking, etc
 * [Goals (or milestones)](https://github.com/meteorcrowd/project-management/issues/23) - big picture landmarks towards which we strive
 * [User Accounts](https://github.com/meteorcrowd/project-management/issues/24) - needed for authentication, ownership, etc
