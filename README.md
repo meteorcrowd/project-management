@@ -10,6 +10,8 @@ We would like to minimise duplication of effort by collaborating with, and build
 ## Free/Open Source Software
 This project is dedicated to improving the commonwealth. As such, all assets will be released under free/open culture licenses.
 
+**Note:** There is currently an open issue to [choose the project sourcecode license](https://github.com/meteorcrowd/project-management/issues/2)
+
 # Proposed features
 The following features are currently under consideration:
 
