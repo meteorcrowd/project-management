@@ -15,7 +15,7 @@ This project is dedicated to improving the commonwealth. As such, all assets wil
 # Proposed features
 The following features are currently under consideration:
 
-* Projects - collaborative, or individual, ventures
+* [Projects](https://github.com/meteorcrowd/project-management/issues/22) - collaborative, or individual, ventures
 * Tasks - the basic elements within projects
 * Goals (or milestones) - big picture landmarks towards which we strive
 * User Accounts - needed for authentication, ownership, etc
