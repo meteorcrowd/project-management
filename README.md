@@ -19,6 +19,7 @@ The following features are currently under consideration:
 * Tasks - the basic elements within projects
 * Goals (or milestones) - big picture landmarks towards which we strive
 * User Accounts - needed for authentication, ownership, etc
+  * Profiles - demonstrating achievements, activity, affiliation, etc 
   * Groups - collecives with common abilities, ambitions, etc 
 * Wiki documentation - collaborative documents
 * Kanban board - visual representation of work in progress
