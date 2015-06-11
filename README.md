@@ -19,7 +19,7 @@ The following features are currently under consideration:
 * [Tasks](https://github.com/meteorcrowd/project-management/issues/18) - the basic elements within projects
 * [Goals (or milestones)](https://github.com/meteorcrowd/project-management/issues/23) - big picture landmarks towards which we strive
 * [User Accounts](https://github.com/meteorcrowd/project-management/issues/24) - needed for authentication, ownership, etc
-  * Profiles - demonstrating achievements, activity, affiliation, etc 
+  * [Profiles](https://github.com/meteorcrowd/project-management/issues/25) - demonstrating achievements, activity, affiliation, etc 
   * Groups - collecives with common abilities, ambitions, etc 
 * Wiki documentation - collaborative documents
 * Kanban board - visual representation of work in progress
