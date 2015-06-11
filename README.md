@@ -25,4 +25,4 @@ The following features are currently under consideration:
 * [Kanban board](https://github.com/meteorcrowd/project-management/issues/11) - visual representation of work in progress
   * Swimlanes - rows of tasks linked in common
 * [User Stories](https://github.com/meteorcrowd/project-management/issues/28) - encourage human-centered design/development
-* Discussions - asynchronous (yet near real-time) focused discourse
+* [Discussions](https://github.com/meteorcrowd/project-management/issues/14) - asynchronous (yet near real-time) focused discourse
