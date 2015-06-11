@@ -27,6 +27,6 @@ The following features are currently under consideration:
   * [Dashboard](https://github.com/meteorcrowd/project-management/issues/29) - at-a-glance view of personally relevant tasks and activity across all projects
 * [Wiki documentation](https://github.com/meteorcrowd/project-management/issues/27) - collaborative documents
 * [Kanban board](https://github.com/meteorcrowd/project-management/issues/11) - visual representation of work in progress
-  * Swimlanes - rows of tasks linked in common
+  * [Swimlanes](https://github.com/meteorcrowd/project-management/issues/33) - rows of tasks linked in common
 * [User Stories](https://github.com/meteorcrowd/project-management/issues/28) - encourage human-centered design/development
 * [Discussions](https://github.com/meteorcrowd/project-management/issues/14) - asynchronous (yet near real-time) focused discourse
